@@ -1,0 +1,14 @@
+com.yj.wish.app-jetified-window-1.0.0-beta04-0 C:\Users\Shu'H'an'Z'hang\.gradle\caches\transforms-4\28095c17350a89571b7889da4bcdca0d\transformed\jetified-window-1.0.0-beta04\res
+com.yj.wish.app-core-1.6.0-1 C:\Users\Shu'H'an'Z'hang\.gradle\caches\transforms-4\46eca266d14270b42d5817f4dc8edbd6\transformed\core-1.6.0\res
+com.yj.wish.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Shu'H'an'Z'hang\.gradle\caches\transforms-4\70ee79709c7f933f7fbe066a4c9fddce\transformed\jetified-window-java-1.0.0-beta04\res
+com.yj.wish.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Shu'H'an'Z'hang\.gradle\caches\transforms-4\82301419ba7a2f170892c471583ce93e\transformed\jetified-annotation-experimental-1.1.0\res
+com.yj.wish.app-debug-4 E:\wishmaster\wish_newmaster\wish-master\android\app\src\debug\res
+com.yj.wish.app-main-5 E:\wishmaster\wish_newmaster\wish-master\android\app\src\main\res
+com.yj.wish.app-pngs-6 E:\wishmaster\wish_newmaster\wish-master\build\app\generated\res\pngs\debug
+com.yj.wish.app-resValues-7 E:\wishmaster\wish_newmaster\wish-master\build\app\generated\res\resValues\debug
+com.yj.wish.app-rs-8 E:\wishmaster\wish_newmaster\wish-master\build\app\generated\res\rs\debug
+com.yj.wish.app-mergeDebugResources-9 E:\wishmaster\wish_newmaster\wish-master\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.yj.wish.app-mergeDebugResources-10 E:\wishmaster\wish_newmaster\wish-master\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.yj.wish.app-merged_res-11 E:\wishmaster\wish_newmaster\wish-master\build\app\intermediates\merged_res\debug
+com.yj.wish.app-packaged_res-12 E:\wishmaster\wish_newmaster\wish-master\build\path_provider_android\intermediates\packaged_res\debug
+com.yj.wish.app-packaged_res-13 E:\wishmaster\wish_newmaster\wish-master\build\sqflite\intermediates\packaged_res\debug
